@@ -240,7 +240,7 @@
 		</action>
 		<spells>disguise self, fog cloud, identify, ray of sickness, hold person, locate object, bestow curse, counterspell, lightning bolt, phantasmal killer, polymorph, contact other plane, scrying, eyebite</spells>
 	</monster>
-monster>
+	<monster>
 		<name>Apprentice Wizard</name>
 		<size>M</size>
 		<type>humanoid (any race), Volo's Guide</type>
